@@ -1,4 +1,4 @@
-Assignment 1 Submissions / CSV to JSON Converter
+CSV to JSON Converter
 ================================================
 
 # Generate JSON file
